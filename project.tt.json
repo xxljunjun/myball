@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "myball",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
